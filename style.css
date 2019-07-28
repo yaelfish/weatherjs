@@ -1,0 +1,12 @@
+body {
+    background-image: url('./bg.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.photo-credit {
+    position: relative;
+    bottom: 1vh;
+    left: 0vw;
+}
